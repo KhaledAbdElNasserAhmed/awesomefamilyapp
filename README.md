@@ -1,16 +1,36 @@
-# awesomefamilyapp
+# Awesome Family App
 
-A new Flutter application.
+An app made to connect between the parents and their sons via creating tasks for them to complete and receiving rewards in return. 
 
-## Getting Started
+## Main Features
 
-This project is a starting point for a Flutter application.
+### Dual login Screen
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://i.imgur.com/SUFTCsz.jpg)
+![alt text](https://i.imgur.com/nEicsLG.jpg)
+![alt text](https://i.imgur.com/9V4zwEJ.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Adding Children
+
+![alt text](https://i.imgur.com/IWsvUYA.jpg)
+![alt text](https://i.imgur.com/70wwtGU.jpg)
+![alt text](https://i.imgur.com/simAMY7.jpg)
+
+
+
+### Adding Tasks
+
+![alt text](https://i.imgur.com/SUueAPp.jpg)
+![alt text](https://i.imgur.com/8dGPCiS.jpg)
+![alt text](https://i.imgur.com/beIr1ow.jpg)
+
+
+
+### Adding Gifts
+
+![alt text](https://i.imgur.com/5k1ZFko.jpg)
+![alt text](https://i.imgur.com/KHLacHS.jpg)
+![alt text](https://i.imgur.com/jXwS9wu.jpg)
+
+
