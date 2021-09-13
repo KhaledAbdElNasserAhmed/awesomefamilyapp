@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069563253266",
+    "firebase_url": "https://awesomefamily-app.firebaseio.com",
+    "project_id": "awesomefamily-app",
+    "storage_bucket": "awesomefamily-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069563253266:android:370d14c6e65aaf4ab6fecb",
+        "android_client_info": {
+          "package_name": "awesomefamilyapp.awesomefamilyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069563253266-neaqmamp4hljf1q4l0gbmaarsv3g1irr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9AFBnjvQN3Y8a3uYs_pht6gdvKQVd3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069563253266-neaqmamp4hljf1q4l0gbmaarsv3g1irr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
